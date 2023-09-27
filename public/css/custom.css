@@ -1,13 +1,12 @@
 .count-down {
-    background-color: antiquewhite;
+    background-color: rgb(243, 235, 224);
     padding: 10px 0px;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 50px;
-    color: #ffa4b4;
+    font-weight: bold;
+    font-size: 30px;
+    color: #fb91a4;
     text-align-last: center;
 }
-
-
 
 
 html,body{
